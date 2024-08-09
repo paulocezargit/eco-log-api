@@ -21,7 +21,7 @@ class ECOLog {
  	* @param string $path_file The path to the file where the log will be saved.
  	* @return void
  	**/
-    function Save($register_id, $title, $hostname, $ip_address, $severity_level, $source, $date, $path_file){
+    function Add($register_id, $title, $hostname, $ip_address, $severity_level, $source, $date, $path_file){
 
     }
     
